@@ -15,7 +15,7 @@ Export in eine Excel-Datei (.xlsx) für die Weiterverarbeitung oder Dokumentatio
 Anwendungsfall:
 Ideal für Sicherheitsbeauftragte, Auditoren und IT-Teams, die Anforderungen aus dem BSI-Kompendium analysieren oder in eigene Systeme überführen möchten.
 
-** Project Description**
+**Project Description**
 BSI IT-Grundschutz PDF Parser
 
 This Python script extracts IT security requirements from BSI IT-Grundschutz module PDFs and organizes them into a structured Excel spreadsheet. It automatically identifies key metadata such as the module, requirement ID, title, requirement type (B, M, H), description, and optional C5 references.
